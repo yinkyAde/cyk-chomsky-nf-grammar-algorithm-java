@@ -1,9 +1,3 @@
-/*
- * CYK algorithm for Context Free Language
- * Author: Alexander Vasiliev <alexandrvasilievby@gmail.com>
- * https://github.com/belrbeZ
- */
-
 import cnf.Grammar;
 import cyk.CykCore;
 import cyk.ICykAlgorithm;

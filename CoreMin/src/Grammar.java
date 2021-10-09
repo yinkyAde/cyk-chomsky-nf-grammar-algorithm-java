@@ -1,9 +1,3 @@
-/*
- * Chomsky Normal Form algorithm for Context Free Grammar
- * Author: Alexander Vasiliev <alexandrvasilievby@gmail.com>
- * https://github.com/belrbeZ
- */
-
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.util.ArrayList;

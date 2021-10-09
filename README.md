@@ -47,11 +47,11 @@ Normal Form](https://en.wikipedia.org/wiki/Chomsky_normal_form).
 1. Clone the project, cd into the folder and then the src folder then run javac
    to compile:
    
-    `git clone git://github.com/belrbeZ/CYK-ChomskyNF`
+    `git clone github.com/yinkyAde/cyk-chomsky-nf-grammar-algorithm-java`
    
     or Use Git or checkout with SVN using the web URL 
     
-    `https://github.com/belrbeZ/CYK-ChomskyNF.git`
+    `https://github.com/yinkyAde/cyk-chomsky-nf-grammar-algorithm-java.git`
     
 2. Compile and start console applications with demonstration of algorithms.
 

@@ -2,9 +2,7 @@ import java.util.ArrayList;
 
 public class ConsoleTable {
 
-    /*
-     * Modify these to suit your use
-     */
+
     private final int TABLEPADDING = 2;
     private final char SEPERATOR_CHAR = '-';
 
